@@ -12,3 +12,21 @@
 ### Screenshot not neededed everyone knows lol
 
 ## Even a close tab [c]
+
+
+# HOW TO USE THIS
+
+## Install Tampermonkey
+
+https://www.tampermonkey.net/
+
+## Click on the extension 
+![Screenshot 2023-02-24 at 12 50 36 PM](https://user-images.githubusercontent.com/64395272/221288875-c1af1c14-b73c-48f1-a3cc-a6a02c02c442.png)
+
+## Click Create New Script
+![Screenshot 2023-02-24 at 12 51 18 PM](https://user-images.githubusercontent.com/64395272/221289017-347c13ea-f923-49e0-bccb-7fafd447fec2.png)
+
+## Paste in the code from script.js to there
+
+# AND YOUR SET
+### Note that I do not promote hacking just use it within your friend group!
