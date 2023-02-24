@@ -27,6 +27,7 @@ https://www.tampermonkey.net/
 ![Screenshot 2023-02-24 at 12 51 18 PM](https://user-images.githubusercontent.com/64395272/221289017-347c13ea-f923-49e0-bccb-7fafd447fec2.png)
 
 ## Paste in the code from script.js to there
+[ https://github.com/jscreator123/shellshockers/blob/main/script.js ]
 
 # AND YOUR SET
 ### Note that I do not promote hacking just use it within your friend group!
