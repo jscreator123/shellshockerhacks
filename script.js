@@ -531,3 +531,11 @@ function remIFs(){
 /* Must repeat to catch recurring frames. */
 window.setInterval(remIFs,500);
 })();
+
+(function(w){
+    var arr = ['contextmenu','copy','cut','paste','mousedown','mouseup','beforeunload','beforeprint'];
+    for(var i = 0, x; x = arr[i]; i++){
+        if(w['on' + x])w['on' + x] = null;
+        w.addEventListener(x, function(e){e.stopPropagation()}, true);
+    };
+    for(var j = 0, f; f = w.frames[j]; j++){try{arguments.callee(f)}catch(e){}}})(window);
