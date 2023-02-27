@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Crazy Hacked Shellshockers Client, aimbot, esp, redirect
-// @author       jscreator (JsCreate)
+// @author       jscreator & vivaancode
 // @match        *://shellshock.io/*
 // @match        *://algebra.best/*
 // @match        *://algebra.vip/*
