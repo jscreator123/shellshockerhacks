@@ -55,7 +55,7 @@
 
 //Title of website change to yours
 
-document.title = "Shell Shockers | jscreator ";
+document.title = "Shell Shockers | Hacked ";
 window.XMLHttpRequest = class extends window.XMLHttpRequest {
 
 	open( method, url ) {
@@ -115,9 +115,9 @@ window.XMLHttpRequest = class extends window.XMLHttpRequest {
 
 			return code.replace( sceneVarName + '.render()', `
 
-					window[ '${onUpdateFuncName}' ]( 
-						${babylonVarName}, 
-						${playersVarName}, 
+					window[ '${onUpdateFuncName}' ](
+						${babylonVarName},
+						${playersVarName},
 						${myPlayerVarName}
 					);
 
@@ -260,7 +260,7 @@ temp.innerHTML = `<style>
 const msgEl = temp.querySelector( '.msg' );
 const infoEl = temp.querySelector( '.info' );
 
-window.addEventListener( 'DOMContentLoaded', async function () {	
+window.addEventListener( 'DOMContentLoaded', async function () {
 
 	while ( temp.children.length > 0 ) {
 
@@ -321,14 +321,14 @@ window.addEventListener( 'keyup', function ( event ) {
 
 		case 'KeyH' :
 
-			infoEl.style.display = infoEl.style.display === '' ? 'none' : ''; 
+			infoEl.style.display = infoEl.style.display === '' ? 'none' : '';
 
 			break;
 
 		case 'KeyL' :
-			
+
 			aimbotOnRightMouse = ! aimbotOnRightMouse;
-			
+
 			showMsg( 'Aimbot On Right Mouse Hold', aimbotOnRightMouse );
 
 			break;
