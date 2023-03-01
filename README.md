@@ -20,10 +20,17 @@ Not like normal aimbot, this just locks your aim onto the nearest player.
 You may still miss. This does not automatically shoot for you.
 
 May lock through walls. Recommended guns to use with aimbot:
-- EggK-47
-- Crackshot
-- Free Ranger
-- 
+
+Ranking:
+1. EPIC
+2. Goat
+3. Ok
+
+- EggK-47 (Goat)
+- Scrambler (EPIC)
+- Crackshot (EPIC)
+- Free Ranger (Ok)
+
 [b] to turn this off. You will need to do this multiple times on most maps, because climbing stairs or ladders is very hard with it on.
 
 ## Close tab
