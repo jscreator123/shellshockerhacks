@@ -50,7 +50,7 @@ Keep in mind this is completely on the web. You do not have to install any malwa
 
 ![Screenshot 2023-02-24 at 12 51 18 PM](https://user-images.githubusercontent.com/64395272/221289017-347c13ea-f923-49e0-bccb-7fafd447fec2.png)
 
-4. Paste in the file called [ https://github.com/jscreator123/shellshockers/blob/main/script.js ](script.js), and then press [Ctrl+S] to save the file.
+4. Paste in the file called [script.js](https://github.com/jscreator123/shellshockers/blob/main/script.js]) , and then press [Ctrl+S] to save the file.
 
 # AND YOUR SET!
 ### Note that I do not promote hacking just use it within your friend group!
